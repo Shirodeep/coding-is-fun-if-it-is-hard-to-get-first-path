@@ -1,0 +1,10 @@
+title: Coding is fun if it is hard to get first
+description: To prove XYZ+XYZ+XYZ=ZZZ with C-programming.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
